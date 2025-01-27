@@ -1,0 +1,3 @@
+requests
+ds_store
+urllib3
