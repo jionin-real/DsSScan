@@ -13,6 +13,7 @@ Configurable Options: Allows customization of threads, timeout, and saving .DS_S
 ##
 
 ### Setup
+(Python >= 3.7)
 `git clone https://github.com/jionin-real/dssscan.git`  
 `cd dssscan`   
 `pip install -r requirements.txt`  
